@@ -2,6 +2,10 @@
 title: "Welcome👋"
 ---
 
+```{=html}
+<h1 class="bounce">🚧 Under Construction 🚧</h1>
+```
+
 **My name is Ludo!**
 
 Welcome to my developer portfolio. The work on this website is still in progress. The good news is that you can already find out more [about me](about.qmd)! If you wish to see more, you can visit my [LinkedIn page](https://www.linkedin.com/in/ludo-mels-b3782b250/).
