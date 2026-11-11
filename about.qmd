@@ -2,4 +2,23 @@
 title: "About me"
 ---
 
-Hi, my name is Ludo.
+Hi, my name is **Ludo**.
+
+I'm in my second year of the Master's programme [Methodology, Statistics and Data Science](https://www.uu.nl/en/masters/methodology-statistics-and-data-science){target="_blank"} at Utrecht University. My interest in statistical methods developed during my Bachelor's in Sociology. My main interest is in *Bayesian methods*.
+
+I have experience in both *research* and *teaching*. I am currently working as a student reasearch-assistant on designing the *data-cleaning* pipeline for the project [*Meer Uren Werkt!*](https://www.uu.nl/organisatie/sociologie/meer-uren-werkt){target="_blank"} at the department of Sociology, Utrecht University. Besides, as a student-assistant for the department of Methodology, Statistics & Data Science, Utrecht University, I have taught *undergraduate statistics* courses. Outside the academic environment, I have taught classes about *fake news* and *financial management* at secondary schools throughout the Netherlands.
+
+# 📚 Education
+
+|            | Programme                                     |
+|------------|-----------------------------------------------|
+|2025 - now  | MSc, Methodology, Statistics and Data Science | 
+|2022 - 2025 | BSc, Sociology                                | 
+
+# 💼 Experience
+
+|            | Function                       | Employer                                                    |
+|------------|--------------------------------|-------------------------------------------------------------|
+|2025 - now  | Student Assistant (research)   | Utrecht University (Sociology)                              | 
+|2024        | Student-assistant (teaching)   | Utrecht University (Methodology, Statistics & Data Science) | 
+|2024 - 2025 | Peer educator                  | Diversion                                                   | 
