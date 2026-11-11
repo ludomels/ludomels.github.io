@@ -5,11 +5,16 @@ website:
   title: "Ludo Mels"
   navbar:
     left:
-      - about.qmd
+      - text: "About me"
+        href: about.qmd
     search: false
     tools: 
       - icon: github
         href: https://github.com/ludomels
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ludo-mels-b3782b250/
+        target: _blank
 
 format:
   html:
