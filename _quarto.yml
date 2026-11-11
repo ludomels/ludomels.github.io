@@ -8,11 +8,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    search: false
 
 format:
   html:
-    theme: cosmo
+    light: flatly
+    dark: darkly
     css: styles.css
-    toc: true
+    toc: true 
 
 embed-resources: true
